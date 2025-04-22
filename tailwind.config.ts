@@ -12,11 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
-      screens:{
-        "sm":"320px"
-      }
-      
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 } satisfies Config;
