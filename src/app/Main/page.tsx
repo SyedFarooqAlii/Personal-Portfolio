@@ -7,7 +7,7 @@ const Main = () => {
     <div>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
       
-      <section className='relative lg:sm:flex pb-8 lg:gap-16 lg:flex-row-reverse sm:flex-col bg-[#f6f7f9]  lg:sm:min-h-screen lg:sm:items-center lg:sm:justify-center'>
+      <section className='relative lg:sm:flex pb-8 lg:gap-16 lg:flex-row-reverse sm:flex-col bg-[#ffffff]  lg:sm:min-h-screen lg:sm:items-center lg:sm:justify-center'>
 
       <div className='main-img flex  items-center justify-center h-[400px] lg:h-[500px]  lg:rounded-[8px] rounded-[50%] w-full lg:mt-0  mt-8 lg:w-[400px]  object-cover'>
         <Image className=' shadow-md lg:shadow-md  shadow-[#7f7b7b] lg:h-[500px] lg:w-[500px] h-[300px] w-[300px]   lg:rounded-[8px] rounded-[50%]  ' src={'/car2.avif'} height={300} width={300} alt='my pic' />

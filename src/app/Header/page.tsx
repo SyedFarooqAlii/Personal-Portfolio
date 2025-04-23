@@ -4,7 +4,7 @@ import React, { useState } from "react";
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
-    <header className="  bg-[#f1f7fc] w-full shadow-sm">
+    <header className="  bg-[#ffffff] w-full shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-24">
         <div className="flex justify-between items-center py-8">
           {/* Logo and Name */}
@@ -62,6 +62,7 @@ export default function Navbar() {
             <a href="/" className="text-[#ff0054] hover:text-gray-700">Home</a>
             <a href="/about" className="hover:text-[#ea1b48]">About</a>
             <a href="/service" className="hover:text-[#ea1b48]">Service</a>
+            <a href="/skill" className="hover:text-[#ea1b48]">Skills</a>
             <a href="/project" className="hover:text-[#ea1b48]">Portfolio</a>
             <a href="/contact" className="hover:text-[#ea1b48]">Contact</a>
             <a
