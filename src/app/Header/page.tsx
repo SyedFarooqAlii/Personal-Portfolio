@@ -43,13 +43,13 @@ export default function Navbar() {
           <div className="md:hidden">
             <button onClick={() => setMenuOpen(!menuOpen)} className="w-6 h-6 bg-[#EAF6FF] rounded-sm">
               
-              <span className="block w-full h-[3px] bg-[#EAF6FF]"></span>
+              <span className="block w-full h-[3px] bg-[#ffffff]"></span>
               <span className="block w-full h-[3px] bg-[#ea1b48]"></span>
               
-              <span className="block w-full h-[3px] bg-[#EAF6FF]"></span>
+              <span className="block w-full h-[3px] bg-[#ffffff]"></span>
               <span className="block w-full h-[3px] bg-[#ea1b48]"></span>
               
-              <span className="block w-full h-[3px] bg-[#EAF6FF]"></span>
+              <span className="block w-full h-[3px] bg-[#ffffff]"></span>
               <span className="block w-full h-[3px] bg-[#ea1b48]"></span>
               
               </button>
