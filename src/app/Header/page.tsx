@@ -41,7 +41,7 @@ export default function Navbar() {
 
           {/* Mobile Menu Placeholder */}
           <div className="md:hidden">
-            <button onClick={() => setMenuOpen(!menuOpen)} className="w-6 h-6 bg-[#EAF6FF] rounded-sm">
+            <button onClick={() => setMenuOpen(!menuOpen)} className="w-6 h-6 bg-[#ffffff] rounded-sm">
               
               <span className="block w-full h-[3px] bg-[#ffffff]"></span>
               <span className="block w-full h-[3px] bg-[#ea1b48]"></span>
