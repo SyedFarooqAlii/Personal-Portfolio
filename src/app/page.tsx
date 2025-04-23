@@ -10,7 +10,7 @@ import "./globals.css";
 
 const Home = () => {
   return (
-    <div className='bg-[#f2f7fb]'>
+    <div className='bg-[#f6f7f9]'>
       <Main/>
       <Skill/>
       <About/>

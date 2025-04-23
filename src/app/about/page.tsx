@@ -12,7 +12,7 @@ const About = () => {
       </div>
  
 
-      <div className="lg:max-w-[550px] sm:w-full sm:px-4 mt-12  relative    lg:px-8 text-center lg:text-left    sm:lg:flex tracking-wide sm:lg:flex-col sm:items-center lg:items-start sm:lg:justify-center">
+      <div className="lg:max-w-[550px] sm:w-full px-4 mt-12  relative    lg:px-8 text-center lg:text-left    sm:lg:flex tracking-wide sm:lg:flex-col sm:items-center lg:items-start sm:lg:justify-center">
 
   <div className='text-[.8rem] font-[500] text-[#7f7b7b] mb-4'>LET ME INTRODUCE MYSELF</div>
   <div className='text-[1.5rem] font-[700] text-[#ea1b48] tracking-wide'>Who I Am<span className='text-[#ea1b48]'>?</span></div>

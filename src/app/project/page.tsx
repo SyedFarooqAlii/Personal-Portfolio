@@ -71,7 +71,7 @@ const Project = () => {
        <h3 className="lg:text-[1.2rem]  text-[.9rem] font-[550] text-gray-600 tracking-wide"> What I Will Do For You</h3>
 
         </div>
-        <div className="flex lg:flex-row flex-col  lg:ml-0 space-y-2 lg:space-y-0 items-center lg:items-center lg:mx-2 mx-0 mt-16 lg:mt-8 justify-center">
+        <div className="flex lg:flex-row flex-col  lg:ml-0 space-y-2 lg:space-y-0 items-center lg:items-center lg:mx-2 mx-0 mt-8 lg:mt-8 lg:pb-0 pb-4 justify-center">
         <h2 className=" text-[1.8rem] tracking-wide text-gray-800 font-[700]"></h2>
           {/* Filter Buttons */}
           <ul className="flex gap-16 ">

@@ -137,7 +137,7 @@ display: inline-block;
   position: absolute;
   width: calc(100% + 8px);
   height: 100%;
-  background-color: #EAF6FF;
+  background-color: #f6f7f9;
   border-left: 2px solid #ea1b48 ;
   right: -8px;
 animation: cursor .8s infinite, typing 20s steps(14) infinite;
@@ -820,7 +820,7 @@ filter: blur(3px);
   /* background-color: #0c0c0c; */
   /* background-color: #092635; */
 
-  background-color:  #f2f7fb;
+  background-color:  #f6f7f9;
 
   /* background-color: #0f0f0f; */
   /* background-color: #040d12; */
@@ -1260,7 +1260,7 @@ display: inline-block;
   position: absolute;
   width: calc(100% + 8px);
   height: 100%;
-  background-color: #EAF6FF;
+  background-color: #f6f7f9;
   border-left: 2px solid #ea1b48 ;
   right: -8px;
 animation: cursor .8s infinite, typing 20s steps(14) infinite;

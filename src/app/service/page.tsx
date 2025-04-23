@@ -22,7 +22,7 @@ const services = [
 
 export default function Services() {
   return (
-    <section className="min-h-[60vh] flex flex-col items-center justify-center bg-[#f2f7fb] lg:p-20  p-10">
+    <section className="min-h-[60vh] flex flex-col items-center justify-center bg-[#f6f7f9] lg:p-20  p-10">
        <h3 className='text-gray-700 text-[1.1rem] font-[600]  relative '>Wh<span className=' border-b-2 border-[rgb(234,27,72)] pb-3'><span className="text-[#ea1b48]"></span>at I Of</span>fer</h3>
        <h3 className="lg:text-[1.2rem] mt-8 text-[.9rem] font-[550] text-gray-600"> Tailored Solutions to Meet Your Business Needs</h3>
 

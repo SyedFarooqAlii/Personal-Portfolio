@@ -7,7 +7,7 @@ const Main = () => {
     <div>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
       
-      <section className='relative lg:sm:flex pb-8 lg:gap-16 lg:flex-row-reverse sm:flex-col bg-[#f2f7fb]  lg:sm:min-h-screen lg:sm:items-center lg:sm:justify-center'>
+      <section className='relative lg:sm:flex pb-8 lg:gap-16 lg:flex-row-reverse sm:flex-col bg-[#f6f7f9]  lg:sm:min-h-screen lg:sm:items-center lg:sm:justify-center'>
 
       <div className='main-img flex  items-center justify-center h-[400px] lg:h-[500px]  lg:rounded-[8px] rounded-[50%] w-full lg:mt-0  mt-8 lg:w-[400px]  object-cover'>
         <Image className=' shadow-md lg:shadow-md  shadow-[#7f7b7b] lg:h-[500px] lg:w-[500px] h-[300px] w-[300px]   lg:rounded-[8px] rounded-[50%]  ' src={'/car2.avif'} height={300} width={300} alt='my pic' />
@@ -22,7 +22,7 @@ const Main = () => {
               </div>
               <div className="social1 absolute w-[90%] md:w-[96%] lg:w-[90%]  lg:justify-between bottom-0 sm:flex-row lg:flex-row  space-y-0  justify-between lg:space-y-0 gap-4  flex items-center lg:mr-0 mr-0 sm:lg:flex items-ceter   sm:pt-4">
                 <div className='social0'>
-                  <p className='text-[.8rem] font-[500] text-[#373636] '>FIND WITH ME</p>
+                  <p className='text-[.8rem] font-[500]  mr-2 text-[#373636] '>FIND WITH ME</p>
                 <a className='h-[40px] bg-white  w-[40px]  flex items-center justify-center' href="#"><i className=" text-[#ea1b48] bx bxl-instagram "></i></a>
                 
                 <a href="#"><i className=" bx bxl-github"></i></a>

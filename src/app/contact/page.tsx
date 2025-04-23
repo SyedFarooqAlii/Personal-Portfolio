@@ -8,7 +8,7 @@ const Contact = () => {
       
       {/* Contact Page */}
 
-      <section className="contact pt-4" id="contact">
+      <section className="contact pt-12" id="contact">
         {/* Have Questions Heading */}
         <h3 className='text-gray-700 text-[1.1rem] font-[600] text-center  relative '>Hav<span className=' border-b-2 border-[rgb(234,27,72)] pb-3'><span className="text-[#ea1b48]"></span>e Quest</span>ion?</h3>
         {/* Contact Me Now Heading */}

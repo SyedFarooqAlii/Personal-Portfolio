@@ -4,7 +4,7 @@ import React, { useState } from "react";
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
-    <header className="  bg-[#EAF6FF] w-full shadow-sm">
+    <header className="  bg-[#f1f7fc] w-full shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-24">
         <div className="flex justify-between items-center py-8">
           {/* Logo and Name */}

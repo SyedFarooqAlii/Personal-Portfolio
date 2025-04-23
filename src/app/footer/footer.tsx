@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-[#EAF6FF] text-gray-700 py-8 pt-24 relative">
+    <footer className="bg-[#f1f7fc] text-gray-700 py-8 pt-36 lg:pt-24 relative">
       {/* Glass Effect */}
       <div className="max-w-6xl mx-auto px-6 lg:px-12">
         <div className="flex flex-col md:flex-row justify-between items-center border-b border-gray-700 pb-6">
