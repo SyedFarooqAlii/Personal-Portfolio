@@ -101,7 +101,7 @@ const Project = () => {
           {filteredProjects.map((project) => (
             <div
               key={project.id}
-              className="box1 bg-[#FFFFFF] rounded-[4px] hover:border-[#ea1b48] border-[2px] shadow-xl h-[200px] lg:h-[330px] sm:h-[330px] lg:w-[320px] sm:w-[300px] cursor-pointer flex flex-col w-[340px] items-center justify-center"
+              className="box1 bg-[#FFFFFF] rounded-[4px] hover:border-[#ea1b48] border-[2px] shadow-xl  lg:h-[330px] h-[330px] lg:w-[320px] w-[300px] cursor-pointer flex flex-col  items-center justify-center"
             >
               <div className="port-img  object-contain">
                 <Image

@@ -18,7 +18,7 @@ const Contact = () => {
 
         <form action="">
           <div className="flex mt-8 lg:mt-0 mx-2 lg:mx-0 items-center flex-col lg:flex-row sm:flex-col gap-4 justify-evenly">
-            <div className="flex space-y-4 flex-col justify-center">
+            <div className="flex  space-y-4 flex-col justify-center">
               <div className="space-y-4">
                 <input type="text" placeholder="Full Name..." />
                 <input type="email" placeholder="Email.." />

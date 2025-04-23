@@ -59,11 +59,11 @@ export default function Navbar() {
         {/* Mobile Menu */}
         {menuOpen && (
           <div className="md:hidden flex flex-col items-start space-y-4 px-4 pb-4 text-sm text-gray-700 font-medium">
-            <a href="#" className="text-[#ff0054] hover:text-gray-700">Home</a>
-            <a href="#" className="hover:text-[#ea1b48]">About</a>
-            <a href="#" className="hover:text-[#ea1b48]">Service</a>
-            <a href="#" className="hover:text-[#ea1b48]">Portfolio</a>
-            <a href="#" className="hover:text-[#ea1b48]">Contact</a>
+            <a href="/" className="text-[#ff0054] hover:text-gray-700">Home</a>
+            <a href="/about" className="hover:text-[#ea1b48]">About</a>
+            <a href="/service" className="hover:text-[#ea1b48]">Service</a>
+            <a href="/project" className="hover:text-[#ea1b48]">Portfolio</a>
+            <a href="/contact" className="hover:text-[#ea1b48]">Contact</a>
             <a
               href="#"
               className="about-button px-3 mb-2 py-3 bg-[#ea1b48] rounded-[4px] text-[.80rem]  font-[700 hover:bg-[#ffffff] text-white px-6 py-2  shadow-lg  shadow-[#e5a3b1] transition"

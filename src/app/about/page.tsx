@@ -4,11 +4,11 @@ import Image from 'next/image'
 
 const About = () => {
   return (
-    <div className='lg:sm:flex  lg:gap-0 lg:flex-row sm:flex-col bg-[#EAF6FF] lg:sm:min-h-screen items-center justify-center'>
+    <div className='lg:sm:flex lg:mt-0 mt-8  lg:gap-0 lg:flex-row sm:flex-col bg-[#f2f7fb] lg:sm:min-h-screen items-center justify-center'>
       
       {/* about page */}
- <div className='main-img flex  items-center justify-center h-[500px] lg:h-[450px] sm:h-[300px] rounded-[8px]  lg:rounded-[8px] sm:rounded-[50%] sm:w-full    lg:w-[450px]  w-full   object-cover'>
-        <Image className='h-[400px] sm:shadow-md lg:shadow-none  sm:shadow-[#7f7b7b] lg:h-[446px] sm:h-[200px] sm:w-[200px]  rounded-[8px] lg:rounded-[8px] sm:rounded-[10%]  w-full lg:w-[446px]' src={'/car2.avif'} height={300} width={300} alt='my pic' />
+ <div className='main-img flex  items-center justify-center  lg:h-[450px] h-[300px] rounded-[8px]  lg:rounded-[8px]      lg:w-[450px]  w-full   object-cover'>
+        <Image className=' shadow-md lg:shadow-none  shadow-[#7f7b7b] lg:h-[446px] h-[200px] w-[200px]  rounded-[8px] lg:rounded-[8px]    lg:w-[446px]' src={'/car2.avif'} height={300} width={300} alt='my pic' />
       </div>
  
 

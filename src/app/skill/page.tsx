@@ -54,7 +54,7 @@ const Skill = () => {
   }, []);
 
   return (
-    <div className="bg-[#EAF6FF] min-h-screen text-black">
+    <div className="bg-[#f2f7fb] min-h-screen text-black">
 
       {/* Skill Section */}
       <section className="pt-28 lg:pt-0  pb-16 flex flex-col items-center">

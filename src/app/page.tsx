@@ -6,11 +6,11 @@ import Project from './project/page'
 import Contact from './contact/page'
 import Footer from './footer/footer'
 import Services from './service/page'
-
+import "./globals.css";
 
 const Home = () => {
   return (
-    <div className='bg-[#EAF6FF]'>
+    <div className='bg-[#f2f7fb]'>
       <Main/>
       <Skill/>
       <About/>
