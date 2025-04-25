@@ -21,7 +21,7 @@ const Project = () => {
       title: 'E-Commerce Website',
       description: 'E-commerce website using tailwindcss and next.js...',
       image: '/finalproj2.jpg',
-      weblink:""
+      weblink:"https://ecommerce-website-rosy-five.vercel.app/"
     },
     {
       id: 3,
